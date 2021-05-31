@@ -4,7 +4,7 @@
 
 Repo related to the challenge _"nstftp"_ from **DawgCTF 2021**, along with my auxiliary/solution programs used to solve it.
 
-To read the complete challenge write-up, follow this link.
+To read the complete challenge write-up, [follow this link](https://litneet64.github.io/write-ups/dawgctf-nstftp/).
 
 ## Dir structure
 `nstftp_chall` contains all the files related to the challenge itself, including the original `.pcap` file with the interactions between an unknown client and server, and also the `nstftp` server.
